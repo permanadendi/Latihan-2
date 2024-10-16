@@ -84,4 +84,4 @@ public class Person {
 
 ### Tampilan Output
 
-![Gambar 1](screenshot/screenshot340.png)
+![Gambar 1](screenshot/Screenshot340.png)
