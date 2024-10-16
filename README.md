@@ -1,18 +1,22 @@
 # Latihan-2
 
 ## Profil
-| Variable | Isi |
-| -------- | --- |
-| **Nama** | Dendi Permana |
-| **NIM** | 312310694 |
-| **Kelas** | TI.23.A.6 |
+
+| Variable        | Isi                         |
+| --------------- | --------------------------- |
+| **Nama**        | Dendi Permana               |
+| **NIM**         | 312310694                   |
+| **Kelas**       | TI.23.A.6                   |
 | **Mata Kuliah** | Pemrograman Orientasi Objek |
 
 ### Latihan
+
 Buatlah kode program java untuk:
+
 - Mendeklarasikan class **Person**, dengan atribut `Nama`, `JenisKelamin`, `Umur` dan lengkapi dengan `access modifier`.
 - Buatlah dua buah objek dari class **Person** bernama Anton dan Riko dan panggil method `setter` dan `getter`.
-``` javascript
+
+```javascript
 // Deklarasi class Person
 public class Person {
     private String Nama;
@@ -77,7 +81,7 @@ public class Person {
     }
 }
 ```
-### Penjelasan
 
+### Tampilan Output
 
-#### Tampilan Output
+![Gambar 1](screenshot/screenshot340.png)
